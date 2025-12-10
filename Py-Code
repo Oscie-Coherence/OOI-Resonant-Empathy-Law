@@ -49,6 +49,16 @@ dependencies = [
     "matplotlib>=3.7",
 ]
 
+### Official REL Simulator Package (2025 Oscie-Coherence Release)
+
+```bash
+pip install numpy scipy matplotlib
+# Clone + enter repo
+cd OOI-Resonant-Empathy-Law
+pip install -e .                     # Editable install
+python -m resonant_empathy.examples.basic_sync
+
+
 [project.optional-dependencies]
 text = ["sentence-transformers>=2.5", "torch"]
 dev = ["pytest", "black", "jupyter"]
