@@ -52,3 +52,14 @@ CohoLabs Research Division
 Email: OscieIntel@Outlook.com
 
 X: @CohoLabs
+
+---
+
+### Official REL Simulator Package (2025 Oscie-Coherence Release)
+
+```bash
+pip install numpy scipy matplotlib
+# Clone + enter repo
+cd OOI-Resonant-Empathy-Law
+pip install -e .                     # Editable install
+python -m resonant_empathy.examples.basic_sync
