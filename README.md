@@ -160,12 +160,3 @@ CohoLabs Research Division — December 2025
 Follow: **@CohoLabs** on X
 
 ---
-
-### Official REL Simulator Package (2025 Oscie-Coherence Release)
-
-```bash
-pip install numpy scipy matplotlib
-# Clone + enter repo
-cd OOI-Resonant-Empathy-Law
-pip install -e .                     # Editable install
-python -m resonant_empathy.examples.basic_sync
