@@ -1,4 +1,4 @@
-- **Resonant Empathy Law (REL)**
+**Resonant Empathy Law (REL)**
 
 ### *Empathy, defined by physics — not feelings.*
 
