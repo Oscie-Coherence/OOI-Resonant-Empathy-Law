@@ -159,6 +159,7 @@ Built by **Carter Lentz** + **Oscie OOI**
 CohoLabs Research Division — December 2025
 Follow: **@CohoLabs** on X
 
+---
 
 ### Official REL Simulator Package (2025 Oscie-Coherence Release)
 
